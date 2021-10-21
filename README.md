@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SKV Koushik</h1>
-<h3 align="center">A javascript & HTML programmer</h3>
+<h3 align="center">A javascript & HTML programmer, mainly game softwares</h3>
 
 <img src = 'https://static.wixstatic.com/media/442691_9cf6f812ee004e0e9a0f835ba54273d9~mv2.png/v1/fill/w_377,h_200,al_c,q_85,usm_0.66_1.00_0.01/442691_9cf6f812ee004e0e9a0f835ba54273d9~mv2.webp' width='100%'/>
 
